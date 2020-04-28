@@ -1,2 +1,2 @@
 # Computer-Networks
-Instructions for both programs present in respective folders.
+Instructions for running both programs as well as the methodology are present in respective folders.
